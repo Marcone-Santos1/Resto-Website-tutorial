@@ -1,6 +1,7 @@
 # Resto-Website-tutorial
 Complete Responsive Food / Restaurant Website Design Using HTML / CSS / JAVASCRIPT - From Scratch
 
+<img src="https://github.com/Marcone-Santos1/Resto-Website-tutorial/blob/main/images/print.png?raw=true">
 
 
 <h2>the main feature of this website are:</h2>
