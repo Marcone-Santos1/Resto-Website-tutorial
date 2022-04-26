@@ -13,3 +13,5 @@ Complete Responsive Food / Restaurant Website Design Using HTML / CSS / JAVASCRI
 <p>✔ responsive review section with touch slider using swiper.js</p>
 <p>✔ responsive order form section.</p>
 <p>✔ responsive footer section using grid.</p>
+
+<p>Made by <a href="https://www.youtube.com/channel/UCKwgH3vASrD2brd1l2m6NHw" target="_blank">Mr. Web Designer</a>, no videos <a href="https://www.youtube.com/watch?v=MJUssi2c6Ls&ab_channel=Mr.WebDesigner" target="_blank">Complete Responsive Food / Restaurant Website Design Using HTML / CSS / JAVASCRIPT - From Scratch</a></p>
